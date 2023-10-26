@@ -1,0 +1,38 @@
+* {
+
+    font-family: 'Sen', sans-serif;
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* Estilos para WebKit (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #0d25ff52;
+    border: 1px solid #0d25ff27;
+    border-radius: 5px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.616);
+    border-radius: 5px;
+  }
+  
+  /* Estilos para Firefox */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #0D25FF white;
+  }
+  
+  
+  
+  
+  

@@ -1,0 +1,1166 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Project Title 1",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+      "status": "Active",
+      "startDate": "2024-01-01",
+      "endDate": "2024-02-01",
+      "budget": "100000",
+      "owner": {
+        "id": 1,
+        "name": "John Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "teamMembers": [
+        {
+          "id": "112296047341594895909",
+          "name": "John Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 23,
+          "name": "Diana Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        },
+        {
+          "id": 62,
+          "name": "Miryam Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "tags": [
+        "Web Development",
+        "Development"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Project 2",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+      "status": "On Hold",
+      "startDate": "2024-01-01",
+      "endDate": "2024-02-01",
+      "budget": "100000",
+      "owner": {
+        "id": "112296047341594895909",
+        "name": "John Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "teamMembers": [
+        {
+          "id": 32,
+          "name": "John Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 23,
+          "name": "Diana Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        },
+        {
+          "id": 62,
+          "name": "Miryam Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "tags": [
+        "Web Development",
+        "Development"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Project 3",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+      "status": "Created",
+      "startDate": "2024-01-01",
+      "endDate": "2024-02-01",
+      "budget": "100000",
+      "owner": {
+        "id": "112296047341594895909",
+        "name": "Ali Gandara",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLWtScIEYZQR3Y39cq729cxzyOSJuC09LrVpXIYV-hwkHGA=s96-c"
+      },
+      "teamMembers": [
+        {
+          "id": 0,
+          "name": "John Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel"
+        },
+        {
+          "id": 1,
+          "name": "Diana Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel"
+        },
+        {
+          "id": 2,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel"
+        },
+        {
+          "id": 3,
+          "name": "Miryam Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "id": 4,
+      "title": "Project 4 (closed)",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+      "status": "Closed",
+      "startDate": "2024-01-01",
+      "endDate": "2024-02-01",
+      "budget": "100000",
+      "owner": {
+        "id": 1,
+        "name": "John Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "teamMembers": [
+        {
+          "id": 32,
+          "name": "John Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 23,
+          "name": "Diana Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        },
+        {
+          "id": 62,
+          "name": "Miryam Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "tags": [
+        "Web Development",
+        "Development"
+      ]
+    }
+  ],
+  "tasks": [
+    {
+      "id": 0,
+      "tempId": 20
+    },
+    {
+      "id": 1,
+      "title": "Task Long Description, Long Description, Long Description 1",
+      "description": "Description for task 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 23,
+          "name": "Dianna Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 32,
+          "name": "Jon Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+      "status": "In Progress",
+      "timeline": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-02-01"
+      },
+      "tags": [
+        "UX Design",
+        "UX Concept",
+        "Web Development"
+      ],
+      "projectId": 1
+    },
+    {
+      "id": 2,
+      "title": "Task 2",
+      "description": "Description for task 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 23,
+          "name": "Dianna Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 32,
+          "name": "Jon Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "",
+      "status": "In Review",
+      "timeline": {
+        "startDate": "2024-01-12",
+        "endDate": "2024-02-08"
+      },
+      "tags": [],
+      "projectId": 1
+    },
+    {
+      "id": 3,
+      "title": "Task 3",
+      "description": "Description for task 3: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 23,
+          "name": "Dianna Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 32,
+          "name": "Jon Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "https://tecnosoluciones.com/wp-content/uploads/2020/07/Cabecera-Art%C3%ADculos-3.jpg",
+      "status": "In Review",
+      "timeline": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-02-01"
+      },
+      "tags": [
+        "UX Design",
+        "UX Concept",
+        "Web Development"
+      ],
+      "projectId": 1
+    },
+    {
+      "id": 4,
+      "title": "Task 4",
+      "description": "Description for task 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 23,
+          "name": "Dianna Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 32,
+          "name": "Jon Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+      "status": "Complete",
+      "timeline": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-02-01"
+      },
+      "tags": [
+        "Tag 4"
+      ],
+      "projectId": 1
+    },
+    {
+      "id": 5,
+      "title": "Task 5 Updated",
+      "description": "Description for task 5: LOREM ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 32,
+          "name": "John Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 23,
+          "name": "Diana Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        },
+        {
+          "id": 62,
+          "name": "Miryam Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+      "status": "To Do",
+      "timeline": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-02-01"
+      },
+      "tags": [
+        "Mandrive",
+        "Web Design"
+      ],
+      "projectId": 1
+    },
+    {
+      "id": 6,
+      "title": "Task 6",
+      "description": "Description for task 6: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 23,
+          "name": "Dianna Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 62,
+          "name": "Miryam Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+      "status": "To Do",
+      "timeline": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-02-01"
+      },
+      "tags": [
+        "Mandrive"
+      ],
+      "projectId": 1
+    },
+    {
+      "id": 7,
+      "title": "Task 7",
+      "description": "Description for task 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 23,
+          "name": "Dianna Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 32,
+          "name": "Jon Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+      "status": "In Review",
+      "timeline": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-02-01"
+      },
+      "tags": [
+        "Mandrive"
+      ],
+      "projectId": 2
+    },
+    {
+      "id": 8,
+      "title": "Task 8",
+      "description": "Description for task numero 8: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 23,
+          "name": "Dianna Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 32,
+          "name": "Jon Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+      "status": "To Do",
+      "timeline": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-02-01"
+      },
+      "tags": [
+        "Mandrive",
+        "Madrive 8"
+      ],
+      "projectId": 2
+    },
+    {
+      "id": 9,
+      "title": "Task 9",
+      "description": "Description for task 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 23,
+          "name": "Dianna Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 32,
+          "name": "Jon Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+      "status": "Complete",
+      "timeline": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-02-01"
+      },
+      "tags": [
+        "Mandrive"
+      ],
+      "projectId": 2
+    },
+    {
+      "id": 11,
+      "title": "Task Long Description, Long Description, Long Description 1",
+      "description": "Description for task 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 23,
+          "name": "Dianna Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 32,
+          "name": "Jon Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+      "status": "In Progress",
+      "timeline": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-02-01"
+      },
+      "tags": [
+        "UX Design",
+        "UX Concept",
+        "Web Development"
+      ],
+      "projectId": 2
+    },
+    {
+      "id": 12,
+      "title": "Task 12",
+      "description": "Description for task 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 23,
+          "name": "Dianna Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 32,
+          "name": "Jon Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+      "status": "In Review",
+      "timeline": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-02-01"
+      },
+      "tags": [
+        "UX Design",
+        "UX Concept",
+        "Web Development"
+      ],
+      "projectId": 2
+    },
+    {
+      "id": 13,
+      "title": "Task 13",
+      "description": "Description for task 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 23,
+          "name": "Dianna Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 32,
+          "name": "Jon Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "https://tecnosoluciones.com/wp-content/uploads/2020/07/Cabecera-Art%C3%ADculos-3.jpg",
+      "status": "To Do",
+      "timeline": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-02-01"
+      },
+      "tags": [
+        "UX Design",
+        "UX Concept",
+        "Web Development"
+      ],
+      "projectId": 3
+    },
+    {
+      "id": 14,
+      "title": "Task 14",
+      "description": "Description for task 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 23,
+          "name": "Dianna Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 32,
+          "name": "Jon Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+      "status": "In Review",
+      "timeline": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-02-01"
+      },
+      "tags": [
+        "Tag 4"
+      ],
+      "projectId": 3
+    },
+    {
+      "id": 15,
+      "title": "Task 15",
+      "description": "Description for task 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 23,
+          "name": "Dianna Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 32,
+          "name": "Jon Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+      "status": "To Do",
+      "timeline": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-02-01"
+      },
+      "tags": [
+        "Mandrive"
+      ],
+      "projectId": 3
+    },
+    {
+      "id": 16,
+      "title": "Task 16",
+      "description": "Description for task 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 23,
+          "name": "Dianna Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 62,
+          "name": "Miryam Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+      "status": "To Do",
+      "timeline": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-02-01"
+      },
+      "tags": [
+        "Mandrive"
+      ],
+      "projectId": 3
+    },
+    {
+      "id": 17,
+      "title": "Task 17",
+      "description": "Description for task 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 23,
+          "name": "Dianna Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 32,
+          "name": "Jon Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+      "status": "Complete",
+      "timeline": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-02-01"
+      },
+      "tags": [
+        "Mandrive"
+      ],
+      "projectId": 3
+    },
+    {
+      "id": 18,
+      "title": "Task 18",
+      "description": "Description for task 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 23,
+          "name": "Dianna Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 32,
+          "name": "Jon Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+      "status": "To Do",
+      "timeline": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-02-01"
+      },
+      "tags": [
+        "Mandrive"
+      ],
+      "projectId": 3
+    },
+    {
+      "id": 19,
+      "title": "Task 19",
+      "description": "Description for task 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque massa at pulvinar gravida. Morbi bibendum ac purus vel viverra. Aliquam laoreet, diam eu convallis porta, nisi est accumsan neque, id porttitor massa risus quis est",
+      "assignees": [
+        {
+          "id": 23,
+          "name": "Dianna Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        },
+        {
+          "id": 32,
+          "name": "Jon Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2"
+        },
+        {
+          "id": 12,
+          "name": "Miguel Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3"
+        }
+      ],
+      "created_by": {
+        "id": 2,
+        "name": "Creator Doe",
+        "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+      },
+      "attachedImage": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+      "status": "Complete",
+      "timeline": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-02-01"
+      },
+      "tags": [
+        "Mandrive"
+      ],
+      "projectId": 4
+    },
+    {
+      "title": "Nueva Tarea front",
+      "description": "cvxcvxc",
+      "assignees": [
+        {
+          "id": "112296047341594895909",
+          "name": "John Doe",
+          "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1"
+        }
+      ],
+      "created_by": {
+        "id": "112296047341594895909",
+        "name": "Ali Gandara",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLWtScIEYZQR3Y39cq729cxzyOSJuC09LrVpXIYV-hwkHGA=s96-c"
+      },
+      "status": "In Review",
+      "timeline": {
+        "startDate": "2023-10-27",
+        "endDate": "2023-11-20"
+      },
+      "projectId": 1,
+      "id": 20
+    }
+  ],
+  "subTasks": [
+    {
+      "SubTaks": [],
+      "id": 0,
+      "taskId": 0
+    },
+    {
+      "SubTaks": [
+        {
+          "description": "Description for Subtask 1:",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 2",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 3",
+          "finished": true
+        },
+        {
+          "description": "Description for Subtask 4",
+          "finished": true
+        }
+      ],
+      "taskId": 1,
+      "id": 1
+    },
+    {
+      "SubTaks": [
+        {
+          "description": "Description for Subtask 1:",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 2",
+          "finished": false
+        },
+        {
+          "description": "Añadir Tarea",
+          "finished": true
+        }
+      ],
+      "id": 2,
+      "taskId": 2
+    },
+    {
+      "SubTaks": [
+        {
+          "description": "Funciona?",
+          "finished": false
+        }
+      ],
+      "taskId": 3,
+      "id": 3
+    },
+    {
+      "taskId": 4,
+      "id": 4,
+      "SubTaks": [
+        {
+          "description": "Description for Subtask 1:",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 2",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 3",
+          "finished": true
+        },
+        {
+          "description": "Description for Subtask 4",
+          "finished": true
+        }
+      ]
+    },
+    {
+      "SubTaks": [
+        {
+          "description": "Description for Subtask 1:",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 2",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 3",
+          "finished": true
+        },
+        {
+          "description": "Description for Subtask 4",
+          "finished": true
+        }
+      ],
+      "id": 5
+    },
+    {
+      "SubTaks": [
+        {
+          "description": "Description for Subtask 1:",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 2",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 3",
+          "finished": true
+        },
+        {
+          "description": "Description for 4",
+          "finished": false
+        }
+      ],
+      "id": 6
+    },
+    {
+      "SubTaks": [
+        {
+          "description": "Description for Subtask 2",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 3",
+          "finished": true
+        },
+        {
+          "description": "Description for Subtask 4",
+          "finished": true
+        }
+      ],
+      "taskId": 7,
+      "id": 7
+    },
+    {
+      "SubTaks": [
+        {
+          "description": "Description for Subtask 1:",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 2",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 3",
+          "finished": true
+        },
+        {
+          "description": "subtask task 8",
+          "finished": true
+        }
+      ],
+      "id": 8
+    },
+    {
+      "id": 9,
+      "taskId": 9,
+      "SubTaks": [
+        {
+          "description": "Description for Subtask 1:",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 2",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 3",
+          "finished": true
+        },
+        {
+          "description": "Description for Subtask 4",
+          "finished": true
+        }
+      ]
+    },
+    {
+      "taskId": 10,
+      "id": 10,
+      "SubTaks": [
+        {
+          "description": "Description for Subtask 1:",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 2",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 3",
+          "finished": true
+        },
+        {
+          "description": "Description for Subtask 4",
+          "finished": true
+        }
+      ]
+    },
+    {
+      "taskId": 11,
+      "id": 11,
+      "SubTaks": [
+        {
+          "description": "Description for Subtask 1:",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 2",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 3",
+          "finished": true
+        },
+        {
+          "description": "Description for Subtask 4",
+          "finished": true
+        }
+      ]
+    },
+    {
+      "taskId": 12,
+      "id": 12,
+      "SubTaks": [
+        {
+          "description": "Description for Subtask 1:",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 2",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 3",
+          "finished": true
+        },
+        {
+          "description": "Description for Subtask 4",
+          "finished": true
+        }
+      ]
+    },
+    {
+      "taskId": 14,
+      "id": 14,
+      "SubTaks": [
+        {
+          "description": "Description for Subtask 1:",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 2",
+          "finished": false
+        },
+        {
+          "description": "Description for Subtask 3",
+          "finished": true
+        },
+        {
+          "description": "Description for Subtask 4",
+          "finished": true
+        }
+      ]
+    },
+    {
+      "SubTaks": [],
+      "taskId": 20,
+      "id": 15
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "Jhon Doe",
+      "email": "jhon@doe.com",
+      "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=1",
+      "accces_jit": "1234"
+    },
+    {
+      "id": 23,
+      "name": "Diana Doe",
+      "email": "diana@doe.com",
+      "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=2",
+      "accces_jit": "1234"
+    },
+    {
+      "id": 2,
+      "name": "Mario Doe",
+      "email": "mario@doe.com",
+      "avatar": "https://xsgames.co/randomusers/avatar.php?g=pixel&key=3",
+      "acccesJIT": "df3c0cfcd663b5af79f6d5ead0750f351b3d554f"
+    },
+    {
+      "id": "112296047341594895909",
+      "name": "Ali Gandara",
+      "email": "laleeslale123@gmail.com",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLWtScIEYZQR3Y39cq729cxzyOSJuC09LrVpXIYV-hwkHGA=s96-c",
+      "accces_jit": "4dbb5a9de5edcb5a33f0404d30e379a27aa7b51f"
+    }
+  ]
+}
